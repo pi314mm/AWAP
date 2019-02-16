@@ -25,7 +25,14 @@ class Team(object):
         self.board = initial_board
         self.team_size = team_size
         self.company_info = company_info
-        print("init: ", initial_board, team_size, company_info)
+        print("init: ")
+        for i in range(len(initial_board)):
+            for j in range(len(initial_board[0])):
+                a = initial_board[i][j]
+                print("(", a.get_booth(),  ",", a.get_line(), ",", a.get_num_bots(), ",",
+                a.is_end_of_line(), ",", a.get_threshold(), ",", a.is_visible(), end="), ")
+            print("")
+        print(company_info)
 
         self.team_name = "The Axioms"
 
