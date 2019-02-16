@@ -45,6 +45,17 @@ class Team(object):
                 x,y = t.loc
                 self.board[x][y] = t
 
+    def shortestPath(self, fromx, fromy, tox, toy):
+        if tox>fromx:
+            return Direction.LEFT
+        if tox<fromx:
+            return Direction.RIGHT
+        if toy>fromy:
+            return Direction.UP
+        if toy<fromy:
+            return Direction.DOWN
+        return Direction.ENTER
+
     def moveTowardsLine(self, person):
         lines = self.getLines()
         closest = None
@@ -57,8 +68,8 @@ class Team(object):
                 lowestDist=dist
         if closest==None:
             return Direction.UP
-        
-        return Direction.NONE
+
+        return self.shortestPath(person.x,person.y,closest.loc[0],closest.loc[1])
 
     def step(self, visible_board, states, score):
         """
