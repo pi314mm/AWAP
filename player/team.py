@@ -10,60 +10,76 @@ lssong
 npipiton
 """
 from awap2019 import Tile, Direction, State
+import random
 
 class Team(object):
-
-    def threshold(x):
+    def threshold(self, x):
         if x < 10:
             return x / 3
         else:
             return 5
 
     def shortest_path(self, x, y):
-        if x < 0 or x > len(boardInfo[0]) or y < 0 or y > len(boardInfo):
-            return {"pts": 0, "dist": 1000000000000}
+        if x < 0 or x >= len(self.boardInfo[0]) or y < 0 or y >= len(self.boardInfo):
+            return {"pts": 0, "dist": 1000000000000, "dir": "test"}
 
-        if self.memo[x*10000+y]:
+        if (x*10000+y) in self.memo:
             return self.memo[x*10000+y]
 
-        if self.boardInfo[x][y].get_booth():
+        if self.boardInfo[y][x]["tile"].get_booth():
             return {"pts": 0, "dist": 1000000000000}
 
-        if self.boardInfo[x][y].get_line():
-            compInfo = self.companyInfo[self.boardInfo[x][y].get_line()]
-            if compInfo.endLine and !self.boardInfo[x][y].is_end_of_line():
+        if self.boardInfo[y][x]["tile"].get_line():
+            compName = self.boardInfo[y][x]["tile"].get_line()
+            compInfo = self.companyInfo[compName]
+            ret = {"pts": compInfo["score"], "dist": compInfo["avgLineLen"] + 2, "company": compName}
+            if not self.board[y][x].is_end_of_line():
+                ret["dist"] += 3
+                ret["dir"] = random.choice([Direction.UP, Direction.LEFT, Direction.RIGHT, Direction.DOWN])
+            else:
+                ret["dir"] = Direction.ENTER
+            return ret
 
-            return {"pts": compInfo.score, "dist": compInfo.avgLineLen, "company": compInfo}
+        self.memo[x*10000 + y] = {"pts": 0, "dist": 1000000000000}
 
-        up = {**self.shortest_path(x, y-1), "dir": "up"}
-        if up.dist < 1000000000000:
-            up.dist = up.dist + threshold(self.boardInfo[x][y-1].avgPopulation)
-        right = {**self.shortest_path(x+1, y), "dir": "right"}
-        if right.dist < 1000000000000:
-            right.dist = right.dist + threshold(self.boardInfo[x+1][y].avgPopulation)
-        left = {**self.shortest_path(x-1, y), "dir": "left"}
-        if left.dist < 1000000000000:
-            left.dist = left.dist + threshold(self.boardInfo[x-1][y].avgPopulation)
-        down = {**self.shortest_path(x, y+1), "dir": "down"}
-        if down.dist < 1000000000000:
-            down.dist = down.dist + threshold(self.boardInfo[x][y+1].avgPopulation)
+        up = {**self.shortest_path(x, y-1), "dir": Direction.UP}
+        if up["dist"] < 1000000000000:
+            up["dist"] = up["dist"] + self.threshold(self.boardInfo[y-1][x]["avgPopulation"])
+        right = {**self.shortest_path(x+1, y), "dir": Direction.RIGHT}
+        if right["dist"] < 1000000000000:
+            right["dist"] = right["dist"] + self.threshold(self.boardInfo[y][x+1]["avgPopulation"])
+        left = {**self.shortest_path(x-1, y), "dir": Direction.LEFT}
+        if left["dist"] < 1000000000000:
+            left["dist"] = left["dist"] + self.threshold(self.boardInfo[y][x-1]["avgPopulation"])
+        down = {**self.shortest_path(x, y+1), "dir": Direction.DOWN}
+        if down["dist"] < 1000000000000:
+            down["dist"] = down["dist"] + self.threshold(self.boardInfo[y+1][x]["avgPopulation"])
 
         best = None
         for dir in [up, right, left, down]:
-            score = dir.pts / (dir.dist ** 1.1)
-            if !best or best.score < score:
+            score = dir["pts"] / (dir["dist"] ** 1.1)
+            if not best or best["score"] < score:
                 best = {**dir, "score": score}
 
         self.memo[x*10000 + y] = best
         return best
 
     def save_info(self):
+        found = {}
         for i in range(self.rows):
             for j in range(self.cols):
                 if self.board[i][j].get_num_bots() != None:
-                    boardInfo[i][j].avgPopulation = self.board[i][j].get_num_bots()
-                if self.board[i][j].is_end_of_line():
-                    companyInfo[self.board[i][j].get_line()].endLine = (i, j)
+                    self.boardInfo[i][j]["avgPopulation"] = self.board[i][j].get_num_bots()
+                if self.board[i][j].get_num_bots() and self.board[i][j].get_line():
+                    comp = self.board[i][j].get_line()
+                    if not comp in found:
+                        found[comp] = 0
+                    found[comp] += self.board[i][j].get_num_bots()
+        for comp in found:
+            if self.companyInfo[comp]["avgLineLen"] == 0:
+                self.companyInfo[comp]["avgLineLen"] = found[comp]
+            else:
+                self.companyInfo[comp]["avgLineLen"] = self.companyInfo[comp]["avgLineLen"] * 0.9 + found[comp] * 0.1
 
     def __init__(self, initial_board, team_size, company_info):
         """
@@ -82,15 +98,15 @@ class Team(object):
         self.board = initial_board
         self.team_size = team_size
         self.company_info = company_info
-        print("init: ", initial_board, team_size, company_info)
+        #print("init: ", initial_board, team_size, company_info)
 
         self.rows = len(self.board)
         self.cols = len(self.board[0])
 
         for company in self.company_info:
             self.companyInfo[company] = {}
-            self.companyInfo[company].score = self.company_info[company]
-            self.companyInfo[company].avgLineLen = 0
+            self.companyInfo[company]["score"] = self.company_info[company]
+            self.companyInfo[company]["avgLineLen"] = 0
 
         for row in self.board:
             myRow = []
@@ -100,13 +116,29 @@ class Team(object):
 
         self.team_name = "The Axioms"
 
-    def mapdirs(dir):
+    def mapdirs(self, dir):
         return {
             "up": Direction.UP,
             "down": Direciton.DOWN,
             "left": Direction.LEFT,
             "right": Direciton.RIGHT
         }[dir]
+
+    def get_decision(self, state):
+        paths = [self.shortest_path(state.y, state.x),
+            self.shortest_path(state.y - 1, state.x),
+            self.shortest_path(state.y, state.x + 1),
+            self.shortest_path(state.y, state.x - 1),
+            self.shortest_path(state.y + 1, state.x)
+        ]
+
+        best = 0
+        for i in range(1, 5):
+            path = paths[i]
+            if path["score"] > paths[best]["score"]:
+                best = i
+
+        return paths[best]["dir"]
 
     def step(self, visible_board, states, score):
         """
@@ -119,7 +151,16 @@ class Team(object):
 
         self.board = visible_board
         self.save_info()
-        paths = [self.shortest_path(state.x, state.y) for state in states]
-        dirs = [mapdirs(paths.dir) for path in paths]
-
-        return dirs
+        paths = []
+        for state in states:
+            if state.line_pos != -1:
+                paths.append({"dir": Direction.NONE, "company": self.board[state.x][state.y]})
+                print(state.line_pos)
+            else:
+                path = self.shortest_path(state.y, state.x)
+                paths.append(path)
+                if path["dir"] == Direction.ENTER:
+                    self.companyInfo[path["company"]]["score"] /= 2
+        print("START")
+        print(paths)
+        return [path["dir"] for path in paths]

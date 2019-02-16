@@ -143,7 +143,7 @@ with open(log_file, 'r') as log:
         if sec1:
             num_bots = [int(x) for x in line.split()]
             for i, n in enumerate(num_bots):
-                team = [plt.Circle((0, 0), 0.3, edgecolor='k', 
+                team = [plt.Circle((0, 0), 0.3, edgecolor='k',
                                    facecolor=colors[i]) for _ in range(n)]
                 if team:
                     bots.append(team)
@@ -191,7 +191,7 @@ for a, team in enumerate(bots):
                 prev_tstep = tstep
                 curr_points.append(prev_state)
                 continue
-            
+
             if state == None:
                 if curr_points and not prev_is_none:
                     point_list.append(curr_points)
@@ -216,7 +216,7 @@ for a, team in enumerate(bots):
                 prev_state = state
                 prev_tstep = tstep
                 prev_is_none = False
-            
+
             max_tstep = tstep
         if curr_points and not prev_is_none:
             point_list.append(curr_points)
@@ -253,7 +253,7 @@ for a, team in enumerate(bots):
             for x in range(len(distance) - 1):
                 new_section = np.linspace(distance[x], distance[x+1], FLAGS.speed * speed[x], endpoint=False)
                 alpha = np.concatenate((alpha, new_section))
-            
+
             interpolator = interp1d(distance, points, kind='quadratic', axis=0)
             np_points = interpolator(alpha)
             total_points.append(np_points)
@@ -266,7 +266,7 @@ for a, team in enumerate(bots):
                     path = np.concatenate((path, still_frames))
                 continue
 
-            path = np.concatenate((path, step))    
+            path = np.concatenate((path, step))
             try:
                 for loc in nones[i]:
                     still_frames = [loc for _ in range(FLAGS.speed)]
@@ -325,4 +325,3 @@ anim = animation.FuncAnimation(fig, animate,
 
 #anim.save('output/animation.gif', writer='imagemagick')
 plt.show()
-
