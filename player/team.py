@@ -36,6 +36,6 @@ class Team(object):
         For more information on what visible_board, states, and score
         are, please look on the wiki.
         """
-        for state in states:
-            print(state)
+        print([[t.get_num_bots() for t in tiles] for tiles in visible_board])
+                
         return [Direction.UP,Direction.UP,Direction.UP,Direction.UP]
