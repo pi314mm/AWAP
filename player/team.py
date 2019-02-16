@@ -38,4 +38,4 @@ class Team(object):
         """
         print("step: ", visible_board, states, score)
 
-        pass
+        return [Direction.LEFT, Direction.RIGHT, Direction.UP, Direction.DOWN]
