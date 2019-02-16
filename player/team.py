@@ -13,15 +13,49 @@ from awap2019 import Tile, Direction, State
 
 class Team(object):
     self.boardInfo = [] # 2D array of {"tile": tile, "avgPopulation": float}
-    self.companyInfo = {} # 2D array of {"score": int, "avgLineLen": float}
+    self.companyInfo = {} # Map from company to {"score": int, "avgLineLen": float}
+    self.avgDensity = 0
+
+    def threshold(x):
+        if x == -1:
+            return avgDensity
+        if x < 10:
+            return x / 3
+        else:
+            return 5
 
     self.memo = {}
     def shortest_path(self, x, y):
+        if x < 0 or x > len(boardInfo[0]) or y < 0 or y > len(boardInfo):
+            return {"pts", 0, "dist", 1000000000000}
+
         if self.memo[x*10000+y]:
             return self.memo[x*10000+y]
 
+        if self.boardInfo[x][y].get_booth():
+            return {"pts", self.boardInfo[x][y].get_booth()
 
+        up = {**shortest_path(self, x, y-1), "dir": "up"}
+        if up.dist < 1000000000000:
+            up.dist = up.dist + threshold(self.boardInfo[x][y-1].avgPopulation)
+        right = {**shortest_path(self, x+1, y), "dir": "right"}
+        if right.dist < 1000000000000:
+            right.dist = right.dist + threshold(self.boardInfo[x+1][y].avgPopulation)
+        left = {**shortest_path(self, x-1, y), "dir": "left"}
+        if left.dist < 1000000000000:
+            left.dist = left.dist + threshold(self.boardInfo[x-1][y].avgPopulation)
+        down = {**shortest_path(self, x, y+1), "dir": "down"}
+        if down.dist < 1000000000000:
+            down.dist = down.dist + threshold(self.boardInfo[x][y+1].avgPopulation)
 
+        best = None
+        for dir in [up, right, left, down]:
+            score = dir.pts / (dir.dist ** 1.1)
+            if !best or best.score < score:
+                best = {dir, "score": score}
+
+        self.memo[x*10000 + y] = best
+        return best
 
     def save_info(self, state):
 
