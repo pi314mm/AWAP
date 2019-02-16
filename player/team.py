@@ -36,6 +36,6 @@ class Team(object):
         For more information on what visible_board, states, and score
         are, please look on the wiki.
         """
-        print("step: ", visible_board, states, score)
-
-        pass
+        for state in states:
+            print(state)
+        return [Direction.UP,Direction.UP,Direction.UP,Direction.UP]
