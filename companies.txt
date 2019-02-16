@@ -9,7 +9,7 @@ ArgoAI S 40
 Aruba M 37
 Asana S 29
 BAM L 53
-Battelle M 39
+Batptelle M 39
 Blend S 28
 Bloomberg L 52
 Boeing L 56

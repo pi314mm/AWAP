@@ -12,6 +12,17 @@ npipiton
 from awap2019 import Tile, Direction, State
 
 class Team(object):
+    self.boardInfo = [] # 2D array of {"tile": tile, "avgPopulation": float}
+    self.companyInfo = {} # 2D array of {"score": int, "avgLineLen": float}
+
+    self.memo = {}
+    def shortest_path(self, x, y):
+        if self.memo[x*1000+y]:
+            return 
+
+    def save_info(self, state):
+
+
     def __init__(self, initial_board, team_size, company_info):
         """
         The initializer is for you to precompute anything from the
@@ -27,6 +38,18 @@ class Team(object):
         self.company_info = company_info
         print("init: ", initial_board, team_size, company_info)
 
+        for company in self.company_info:
+            self.companyInfo[company] = {}
+            self.companyInfo[company].score = self.company_info[company]
+            self.companyInfo[company].avgLineLen = -1
+
+        self.boardInfo = []
+        for row in self.board:
+            myRow = []
+            for col in row:
+                myRow.append({"tile": col})
+            self.boardInfo.append(myRow)
+
         self.team_name = "The Axioms"
 
     def step(self, visible_board, states, score):
@@ -36,6 +59,6 @@ class Team(object):
         For more information on what visible_board, states, and score
         are, please look on the wiki.
         """
-        for state in states:
+        for state in states`:
             print(state)
         return [Direction.UP,Direction.UP,Direction.UP,Direction.UP]
