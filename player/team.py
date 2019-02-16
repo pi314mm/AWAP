@@ -25,9 +25,20 @@ class Team(object):
         self.board = initial_board
         self.team_size = team_size
         self.company_info = company_info
-        print("init: ", initial_board, team_size, company_info)
-
+        
         self.team_name = "The Axioms"
+
+        self.stepcounter = 0
+
+
+    def updateBoard(self,visible_board):
+        for tiles in visible_board:
+            for t in tiles:
+                x,y = t.loc
+                self.board[x][y] = t
+
+    def moveTowardsLine(self, person):
+        pass
 
     def step(self, visible_board, states, score):
         """
@@ -36,10 +47,17 @@ class Team(object):
         For more information on what visible_board, states, and score
         are, please look on the wiki.
         """
-        print([[t.get_booth() for t in tiles] for tiles in visible_board])
-        print([[t.get_line() for t in tiles] for tiles in visible_board])
-        print([[t.is_end_of_line() for t in tiles] for tiles in visible_board])
+        #print([[t.get_booth() for t in tiles] for tiles in visible_board])
+        #print([[t.get_line() for t in tiles] for tiles in visible_board])
+        #print([[t.is_end_of_line() for t in tiles] for tiles in visible_board])
+        #print([[t.get_num_bots() for t in tiles] for tiles in visible_board])
 
-        print([[t.get_num_bots() for t in tiles] for tiles in visible_board])
-                
-        return [Direction.UP,Direction.UP,Direction.UP,Direction.UP]
+        self.updateBoard(visible_board)
+        print(self.board)
+
+        directions = []
+        for bot in states:
+            if bot.line_pos==-1:
+                directions.append(self.moveTowardsLine(bot))
+            else:
+                directions.append(Direction.NONE)
