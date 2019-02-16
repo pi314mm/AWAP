@@ -28,47 +28,55 @@ class Team(object):
         
         self.team_name = "The Axioms"
 
-        self.stepcounter = 0
-
 
     def getLines(self):
         lines = dict()
-        for tiles in self.board:
-            for tile in tiles:
+        for x in range(len(self.board)):
+            for y in range(len(self.board[0])):
+                tile = self.board[x][y]
                 if tile.is_end_of_line():
                     lines[tile.get_line()] = tile
         return lines
 
-    def updateBoard(self,visible_board):
-        for tiles in visible_board:
-            for t in tiles:
-                x,y = t.loc
-                self.board[x][y] = t
+    #def updateBoard(self,visible_board):
+    #    for tiles in visible_board:
+    #        for t in tiles:
+    #            x,y = t.loc
+    #            self.board[x][y] = t
 
     def shortestPath(self, fromx, fromy, tox, toy):
-        if tox>fromx:
-            return Direction.LEFT
         if tox<fromx:
-            return Direction.RIGHT
-        if toy>fromy:
             return Direction.UP
-        if toy<fromy:
+        if tox>fromx:
             return Direction.DOWN
-        return Direction.ENTER
+        if toy>fromy:
+            return Direction.RIGHT
+        if toy<fromy:
+            return Direction.LEFT
+        return None
 
     def moveTowardsLine(self, person):
         lines = self.getLines()
-        closest = None
-        lowestDist = float('inf')
+        best = None
+        points = float('-inf')
+        #lowestDist = float('inf')
         for line in lines.values():
-            lx,ly = line.loc
-            dist = abs(person.x-lx)+abs(person.y-ly)
-            if dist<lowestDist:
-                closest=line
-                lowestDist=dist
-        if closest==None:
+            if points<self.company_info[line.get_line()]:
+                best = line
+                points = self.company_info[line.get_line()]
+            #lx,ly = line.get_loc()
+            #dist = abs(person.y-lx)+abs(person.x-ly)
+            #if dist<lowestDist:
+            #    best=line
+            #    lowestDist=dist
+
+        if best==None:
             return Direction.UP
-        return self.shortestPath(person.x,person.y,closest.loc[0],closest.loc[1])
+        x,y = best.get_loc()
+        direction = self.shortestPath(person.x,person.y,x,y)
+        if direction == None:
+            self.company_info[best.get_line()]/=2
+            return Direction.ENTER
 
     def step(self, visible_board, states, score):
         """
@@ -82,10 +90,7 @@ class Team(object):
         #print([[t.is_end_of_line() for t in tiles] for tiles in visible_board])
         #print([[t.get_num_bots() for t in tiles] for tiles in visible_board])
 
-        self.updateBoard(visible_board)
-        print(self.getLines())
-
-
+        self.board=visible_board
 
         directions = []
         for bot in states:
@@ -93,4 +98,5 @@ class Team(object):
                 directions.append(self.moveTowardsLine(bot))
             else:
                 directions.append(Direction.NONE)
+        print(directions)
         return directions
