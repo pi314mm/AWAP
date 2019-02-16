@@ -38,11 +38,11 @@ class Team(object):
                     lines[tile.get_line()] = tile
         return lines
 
-    #def updateBoard(self,visible_board):
-    #    for tiles in visible_board:
-    #        for t in tiles:
-    #            x,y = t.loc
-    #            self.board[x][y] = t
+    def updateBoard(self,visible_board):
+        for tiles in visible_board:
+            for t in tiles:
+                x,y = t.get_loc()
+                self.board[x][y] = t
 
     def shortestPath(self, fromx, fromy, tox, toy):
         if tox<fromx:
@@ -77,6 +77,7 @@ class Team(object):
         if direction == None:
             self.company_info[best.get_line()]/=2
             return Direction.ENTER
+        return direction
 
     def step(self, visible_board, states, score):
         """
@@ -85,12 +86,8 @@ class Team(object):
         For more information on what visible_board, states, and score
         are, please look on the wiki.
         """
-        #print([[t.get_booth() for t in tiles] for tiles in visible_board])
-        #print([[t.get_line() for t in tiles] for tiles in visible_board])
-        #print([[t.is_end_of_line() for t in tiles] for tiles in visible_board])
-        #print([[t.get_num_bots() for t in tiles] for tiles in visible_board])
 
-        self.board=visible_board
+        self.updateBoard(visible_board)
 
         directions = []
         for bot in states:
