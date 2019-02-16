@@ -20,11 +20,11 @@ class Team(object):
         if self.memo[x*10000+y]:
             return self.memo[x*10000+y]
 
-
-
-
-    def save_info(self, state):
-
+    def save_info(self):
+        for i in range(self.rows):
+            for j in range(self.cols):
+                if ( self.board[i][j] != NONE)
+                    boardInfo[i][j].avgPopulation = self.board[i][j]
 
     def __init__(self, initial_board, team_size, company_info):
         """
@@ -40,6 +40,9 @@ class Team(object):
         self.team_size = team_size
         self.company_info = company_info
         print("init: ", initial_board, team_size, company_info)
+
+        self.rows = len(self.board)
+        self.cols = len(self.board[0])
 
         for company in self.company_info:
             self.companyInfo[company] = {}
