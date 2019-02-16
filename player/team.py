@@ -31,6 +31,14 @@ class Team(object):
         self.stepcounter = 0
 
 
+    def getLines(self):
+        lines = dict()
+        for tiles in self.board:
+            for tile in tiles:
+                if tile.is_end_of_line():
+                    lines[tile.get_line()] = tile
+        return lines
+
     def updateBoard(self,visible_board):
         for tiles in visible_board:
             for t in tiles:
@@ -38,7 +46,19 @@ class Team(object):
                 self.board[x][y] = t
 
     def moveTowardsLine(self, person):
-        pass
+        lines = self.getLines()
+        closest = None
+        lowestDist = float('inf')
+        for line in lines.values():
+            lx,ly = line.loc
+            dist = abs(person.x-lx)+abs(person.y-ly)
+            if dist<lowestDist:
+                closest=line
+                lowestDist=dist
+        if closest==None:
+            return Direction.UP
+        
+        return Direction.NONE
 
     def step(self, visible_board, states, score):
         """
@@ -53,7 +73,9 @@ class Team(object):
         #print([[t.get_num_bots() for t in tiles] for tiles in visible_board])
 
         self.updateBoard(visible_board)
-        print(self.board)
+        print(self.getLines())
+
+
 
         directions = []
         for bot in states:
@@ -61,3 +83,4 @@ class Team(object):
                 directions.append(self.moveTowardsLine(bot))
             else:
                 directions.append(Direction.NONE)
+        return directions
