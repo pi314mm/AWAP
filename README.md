@@ -31,7 +31,7 @@ Before installation, make sure that you have Python 3.7.1 and pip. Clone this re
 cd awap
 pip install awap2019
 ```
-All of your code should go into the file `team.py`, and testing your code can be done by running `python run.py` in the base directory. Running the visualizer should be done by running `python visualizer.py`. Possible command line arguments are listed in the wiki.
+All of your code should go into the file `team.py`, and testing your code can be done by running `python run.py` in the base directory. Running the visualizer should be done by running `python visualizer.py`. Possible command line arguments are listed in the wiki. Please look at the "Running your code" page on the wiki for more information.
 
 If you have any problems installing, please ping us on Slack.
 
