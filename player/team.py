@@ -17,8 +17,11 @@ class Team(object):
 
     self.memo = {}
     def shortest_path(self, x, y):
-        if self.memo[x*1000+y]:
-            return 
+        if self.memo[x*10000+y]:
+            return self.memo[x*10000+y]
+
+
+
 
     def save_info(self, state):
 
@@ -41,13 +44,13 @@ class Team(object):
         for company in self.company_info:
             self.companyInfo[company] = {}
             self.companyInfo[company].score = self.company_info[company]
-            self.companyInfo[company].avgLineLen = -1
+            self.companyInfo[company].avgLineLen = None
 
         self.boardInfo = []
         for row in self.board:
             myRow = []
             for col in row:
-                myRow.append({"tile": col})
+                myRow.append({"tile": col, "avgPopulation": None})
             self.boardInfo.append(myRow)
 
         self.team_name = "The Axioms"
