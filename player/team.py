@@ -68,7 +68,6 @@ class Team(object):
                 lowestDist=dist
         if closest==None:
             return Direction.UP
-
         return self.shortestPath(person.x,person.y,closest.loc[0],closest.loc[1])
 
     def step(self, visible_board, states, score):
