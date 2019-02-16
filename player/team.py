@@ -36,7 +36,10 @@ class Team(object):
         For more information on what visible_board, states, and score
         are, please look on the wiki.
         """
-        
+        print([[t.get_booth() for t in tiles] for tiles in visible_board])
+        print([[t.get_line() for t in tiles] for tiles in visible_board])
+        print([[t.is_end_of_line() for t in tiles] for tiles in visible_board])
+
         print([[t.get_num_bots() for t in tiles] for tiles in visible_board])
                 
         return [Direction.UP,Direction.UP,Direction.UP,Direction.UP]
