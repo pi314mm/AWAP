@@ -1,0 +1,530 @@
+START
+[{'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}, {'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}, {'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}, {'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}]
+START
+[{'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}, {'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}, {'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}, {'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}]
+START
+[{'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}, {'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}, {'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}, {'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}]
+START
+[{'pts': 38, 'dist': 14.667666666666666, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.9805529680481226}, {'pts': 38, 'dist': 14.667666666666666, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.9805529680481226}, {'pts': 38, 'dist': 14.667666666666666, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.9805529680481226}, {'pts': 38, 'dist': 14.667666666666666, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.9805529680481226}]
+START
+[{'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}, {'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}, {'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}, {'pts': 38, 'dist': 15.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 1.93219682640987}]
+START
+[{'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}]
+START
+[{'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}]
+START
+[{'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}]
+START
+[{'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}]
+START
+[{'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}, {'pts': 38, 'dist': 10.001000000000001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>, 'score': 3.0181152976096177}]
+START
+[{'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}]
+START
+[{'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}]
+START
+[{'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}]
+START
+[{'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}]
+START
+[{'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}, {'pts': 38, 'dist': 5.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.468760269668216}]
+START
+[{'pts': 38, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 38, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 38, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 38, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.DOWN: (1, 0)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.DOWN: (1, 0)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 2.375, 'dist': 0.001, 'company': 'SkelterLabs', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 38, 'dist': 6.001, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 5.29343527527301}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.DOWN: (1, 0)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 38, 'dist': 4.334333333333333, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 7.571275650470733}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.DOWN: (1, 0)>}, {'pts': 34, 'dist': 4.667666666666666, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.244089214203095}, {'pts': 38, 'dist': 4.667666666666666, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 6.978687945285812}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.DOWN: (1, 0)>}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.DOWN: (1, 0)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.DOWN: (1, 0)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 38, 'dist': 5.667666666666666, 'company': 'Ticketmaster', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 5.6368809995580405}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.DOWN: (1, 0)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.LEFT: (0, -1)>}]
+START
+[{'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 4.667666666666666, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 6.978687945285812}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 34, 'dist': 4.667666666666666, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.244089214203095}, {'pts': 34, 'dist': 4.667666666666666, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.244089214203095}, {'pts': 38, 'dist': 5.0009999999999994, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 6.468760269668217}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>}]
+START
+[{'pts': 34, 'dist': 3.6676666666666664, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 8.140481112312491}, {'pts': 34, 'dist': 3.6676666666666664, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 8.140481112312491}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.LEFT: (0, -1)>}]
+START
+[{'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.DOWN: (1, 0)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.RIGHT: (0, 1)>}]
+START
+[{'pts': 34, 'dist': 4.334333333333333, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.774299266210656}, {'pts': 34, 'dist': 4.334333333333333, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.774299266210656}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.DOWN: (1, 0)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.DOWN: (1, 0)>}]
+START
+[{'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 4.334333333333333, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 7.571275650470733}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 34, 'dist': 4.334333333333333, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.774299266210656}, {'pts': 34, 'dist': 4.334333333333333, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.774299266210656}, {'pts': 38, 'dist': 5.0009999999999994, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 6.468760269668217}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.LEFT: (0, -1)>}]
+START
+[{'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 2.375, 'dist': 3.001, 'company': 'SkelterLabs', 'dir': <Direction.LEFT: (0, -1)>}]
+START
+[{'pts': 34, 'dist': 4.001, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 7.397645410101776}, {'pts': 34, 'dist': 4.001, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 7.397645410101776}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 38, 'dist': 5.0009999999999994, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 6.468760269668217}]
+START
+[{'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.DOWN: (1, 0)>}, {'pts': 38, 'dist': 4.334333333333333, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 7.571275650470733}]
+START
+[{'pts': 34, 'dist': 5.0009999999999994, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 5.787838136018931}, {'pts': 34, 'dist': 5.0009999999999994, 'company': 'JaneStreet', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 5.787838136018931}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 38, 'dist': 4.667666666666666, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 6.978687945285812}]
+START
+[{'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.RIGHT: (0, 1)>}]
+START
+[{'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.DOWN: (1, 0)>}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.LEFT: (0, -1)>}]
+START
+[{'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 4.667666666666666, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 6.978687945285812}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.DOWN: (1, 0)>}]
+START
+[{'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 5.334333333333333, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 6.025532469372499}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 30, 'dist': 5.001, 'company': 'Pinterest', 'dir': <Direction.DOWN: (1, 0)>, 'score': 5.106916002369644}, {'pts': 38, 'dist': 4.667666666666666, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>, 'score': 6.978687945285812}, {'pts': 48, 'dist': 2.6676666666666664, 'company': 'Cloudera', 'dir': <Direction.LEFT: (0, -1)>, 'score': 16.311598348815085}]
+START
+[{'pts': 30, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 30, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 48, 'dist': 1.6676666666666666, 'company': 'Cloudera', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 27.34771620128329}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 48, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.UP: (-1, 0)>, 'score': 95772.59111850627}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 38, 'dist': 3.001, 'company': 'Mozilla', 'dir': <Direction.UP: (-1, 0)>}, {'pts': 48, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 24.0, 'dist': 0.6676666666666666, 'company': 'Cloudera', 'dir': <Direction.UP: (-1, 0)>, 'score': 37.42791010243668}, {'pts': 24.0, 'dist': 3.001, 'company': 'Cloudera', 'dir': <Direction.DOWN: (1, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 24.0, 'dist': 3.001, 'company': 'Cloudera', 'dir': <Direction.UP: (-1, 0)>}, {'pts': 24.0, 'dist': 1.3343333333333331, 'company': 'Cloudera', 'dir': <Direction.UP: (-1, 0)>, 'score': 17.47513231685861}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 51, 'dist': 0.001, 'company': 'Oracle', 'dir': <Direction.UP: (-1, 0)>, 'score': 101758.37806341292}, {'pts': 24.0, 'dist': 1.001, 'company': 'Cloudera', 'dir': <Direction.UP: (-1, 0)>, 'score': 23.973627691385335}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 51, 'dist': 0.001, 'company': 'Oracle', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 24.0, 'dist': 3.001, 'company': 'Cloudera', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 0.001, 'company': 'Oracle', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 24.0, 'dist': 1.001, 'company': 'Cloudera', 'dir': <Direction.DOWN: (1, 0)>, 'score': 23.973627691385335}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 0.001, 'company': 'Oracle', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 24.0, 'dist': 3.001, 'company': 'Cloudera', 'dir': <Direction.DOWN: (1, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 0.001, 'company': 'Oracle', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 24.0, 'dist': 1.6676666666666664, 'company': 'Cloudera', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 13.673858100641647}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 0.001, 'company': 'Oracle', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 24.0, 'dist': 2.001, 'company': 'Cloudera', 'dir': <Direction.UP: (-1, 0)>, 'score': 11.190241111987355}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 3.001, 'company': 'Oracle', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 24.0, 'dist': 1.001, 'company': 'Cloudera', 'dir': <Direction.UP: (-1, 0)>, 'score': 23.973627691385335}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 3.001, 'company': 'Oracle', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 24.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 3.001, 'company': 'Oracle', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 12.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 3.001, 'company': 'Oracle', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 12.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 3.001, 'company': 'Oracle', 'dir': <Direction.DOWN: (1, 0)>}, {'pts': 12.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 60, 'dist': 3.3343333333333334, 'company': 'Siemens', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 15.95296215370306}, {'pts': 12.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 53, 'dist': 2.001, 'company': 'SAP', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 24.71178245563874}, {'pts': 12.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 53, 'dist': 2.001, 'company': 'SAP', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 24.71178245563874}, {'pts': 12.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 53, 'dist': 1.001, 'company': 'SAP', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 52.94176115180928}, {'pts': 12.0, 'dist': 3.001, 'company': 'Cloudera', 'dir': <Direction.RIGHT: (0, 1)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 53, 'dist': 1.3343333333333331, 'company': 'SAP', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 38.59091719972943}, {'pts': 12.0, 'dist': 3.001, 'company': 'Cloudera', 'dir': <Direction.DOWN: (1, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 53, 'dist': 0.3343333333333333, 'company': 'SAP', 'dir': <Direction.DOWN: (1, 0)>, 'score': 176.8797938747939}, {'pts': 12.0, 'dist': 1.6676666666666664, 'company': 'Cloudera', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 6.8369290503208235}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 53, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 12.0, 'dist': 1.001, 'company': 'Cloudera', 'dir': <Direction.UP: (-1, 0)>, 'score': 11.986813845692668}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 26.5, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 12.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 26.5, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 26.5, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 13.25, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.625, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 3.3125, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.0, 'dist': 0.001, 'company': 'Cloudera', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.65625, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.0, 'dist': 3.001, 'company': 'Cloudera', 'dir': <Direction.LEFT: (0, -1)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.828125, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.0, 'dist': 3.001, 'company': 'Cloudera', 'dir': <Direction.LEFT: (0, -1)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.4140625, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.0, 'dist': 3.001, 'company': 'Cloudera', 'dir': <Direction.RIGHT: (0, 1)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.20703125, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.0, 'dist': 3.001, 'company': 'Cloudera', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.20703125, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 1.3343333333333334, 'company': 'Oracle', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 18.56732808666227}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.20703125, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 60, 'dist': 2.001, 'company': 'Siemens', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 27.975602779968387}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.20703125, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 60, 'dist': 1.3343333333333331, 'company': 'Siemens', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 43.68783079214652}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.103515625, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 60, 'dist': 3.001, 'company': 'Siemens', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 17.9126011336113}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.0517578125, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 60, 'dist': 1.3343333333333331, 'company': 'Siemens', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 43.68783079214652}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.02587890625, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 60, 'dist': 1.001, 'company': 'Siemens', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 59.934069228463336}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.012939453125, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 60, 'dist': 0.6676666666666666, 'company': 'Siemens', 'dir': <Direction.UP: (-1, 0)>, 'score': 93.56977525609169}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.0064697265625, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 60, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.00323486328125, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 30.0, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.001617431640625, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 30.0, 'dist': 3.001, 'company': 'Siemens', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.0008087158203125, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 21, 'dist': 3.001, 'company': 'Datadog', 'dir': <Direction.DOWN: (1, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.00040435791015625, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 30.0, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.000202178955078125, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 15.0, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.0001010894775390625, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 15.0, 'dist': 3.001, 'company': 'Siemens', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 5.054473876953125e-05, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 21, 'dist': 3.001, 'company': 'Datadog', 'dir': <Direction.RIGHT: (0, 1)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.5272369384765625e-05, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 21, 'dist': 3.001, 'company': 'Datadog', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.2636184692382812e-05, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 21, 'dist': 0.6676666666666666, 'company': 'Datadog', 'dir': <Direction.LEFT: (0, -1)>, 'score': 32.74942133963209}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.318092346191406e-06, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 21, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.DOWN: (1, 0)>, 'score': 41900.508614346494}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.318092346191406e-06, 'dist': 3.001, 'company': 'SAP', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 21, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.318092346191406e-06, 'dist': 3.001, 'company': 'SAP', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 10.5, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.318092346191406e-06, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 10.5, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.318092346191406e-06, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 5.25, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.318092346191406e-06, 'dist': 0.001, 'company': 'SAP', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 5.25, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.318092346191406e-06, 'dist': 3.001, 'company': 'SAP', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 5.25, 'dist': 3.001, 'company': 'Datadog', 'dir': <Direction.RIGHT: (0, 1)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.318092346191406e-06, 'dist': 3.001, 'company': 'SAP', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 5.25, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.318092346191406e-06, 'dist': 3.001, 'company': 'SAP', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 2.625, 'dist': 3.001, 'company': 'Datadog', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.318092346191406e-06, 'dist': 3.001, 'company': 'SAP', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 22, 'dist': 1.3343333333333334, 'company': 'Slack', 'dir': <Direction.UP: (-1, 0)>, 'score': 16.018871290453724}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.318092346191406e-06, 'dist': 3.001, 'company': 'SAP', 'dir': <Direction.UP: (-1, 0)>}, {'pts': 22, 'dist': 0.6676666666666666, 'company': 'Slack', 'dir': <Direction.UP: (-1, 0)>, 'score': 34.30891759390028}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 1.3343333333333334, 'company': 'Oracle', 'dir': <Direction.LEFT: (0, -1)>, 'score': 18.56732808666227}, {'pts': 22, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 1.6676666666666666, 'company': 'Oracle', 'dir': <Direction.LEFT: (0, -1)>, 'score': 14.528474231931748}, {'pts': 11.0, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 0.6676666666666666, 'company': 'Oracle', 'dir': <Direction.UP: (-1, 0)>, 'score': 39.767154483838965}, {'pts': 11.0, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 25.5, 'dist': 0.001, 'company': 'Oracle', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 11.0, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 12.75, 'dist': 0.001, 'company': 'Oracle', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 11.0, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 12.75, 'dist': 0.001, 'company': 'Oracle', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 5.5, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 12.75, 'dist': 3.001, 'company': 'Oracle', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 2.75, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 12.75, 'dist': 3.001, 'company': 'Oracle', 'dir': <Direction.DOWN: (1, 0)>}, {'pts': 1.375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 15.0, 'dist': 2.6676666666666664, 'company': 'Siemens', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 5.097374484004714}, {'pts': 0.6875, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 15.0, 'dist': 1.3343333333333331, 'company': 'Siemens', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 10.92195769803663}, {'pts': 0.34375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 15.0, 'dist': 1.001, 'company': 'Siemens', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 14.983517307115834}, {'pts': 0.34375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 15.0, 'dist': 0.6676666666666666, 'company': 'Siemens', 'dir': <Direction.RIGHT: (0, 1)>, 'score': 23.392443814022922}, {'pts': 0.34375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 15.0, 'dist': 0.6676666666666666, 'company': 'Siemens', 'dir': <Direction.UP: (-1, 0)>, 'score': 23.392443814022922}, {'pts': 0.34375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 15.0, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.171875, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.171875, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.171875, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 3.75, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.171875, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 3.75, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.0859375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 3.75, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.04296875, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 3.75, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.021484375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.0107421875, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.9375, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.00537109375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.46875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.002685546875, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.234375, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.0013427734375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.1171875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.00067138671875, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.05859375, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.000335693359375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.029296875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.000335693359375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.0146484375, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.000335693359375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.00732421875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.000335693359375, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.00732421875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.0001678466796875, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.00732421875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 8.392333984375e-05, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.00732421875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 4.1961669921875e-05, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.003662109375, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.09808349609375e-05, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.0018310546875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.049041748046875e-05, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.00091552734375, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.049041748046875e-05, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.000457763671875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.049041748046875e-05, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.000457763671875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.049041748046875e-05, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.000457763671875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 5.245208740234375e-06, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.000457763671875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 5.245208740234375e-06, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.0002288818359375, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 5.245208740234375e-06, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.00011444091796875, 'dist': 0.001, 'company': 'Siemens', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 5.245208740234375e-06, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.00011444091796875, 'dist': 3.001, 'company': 'Siemens', 'dir': <Direction.UP: (-1, 0)>}, {'pts': 2.6226043701171875e-06, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.625, 'dist': 3.001, 'company': 'Datadog', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 2.6226043701171875e-06, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.625, 'dist': 3.001, 'company': 'Datadog', 'dir': <Direction.RIGHT: (0, 1)>}, {'pts': 2.6226043701171875e-06, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.625, 'dist': 3.001, 'company': 'Datadog', 'dir': <Direction.UP: (-1, 0)>}, {'pts': 2.6226043701171875e-06, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.625, 'dist': 1.001, 'company': 'Datadog', 'dir': <Direction.LEFT: (0, -1)>, 'score': 2.622115528745271}, {'pts': 1.3113021850585938e-06, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.625, 'dist': 0.3343333333333333, 'company': 'Datadog', 'dir': <Direction.DOWN: (1, 0)>, 'score': 8.760555828704415}, {'pts': 6.556510925292969e-07, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.625, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 3.2782554626464844e-07, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.3125, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 3.2782554626464844e-07, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.3125, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 3.2782554626464844e-07, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.65625, 'dist': 3.001, 'company': 'Datadog', 'dir': <Direction.LEFT: (0, -1)>}, {'pts': 3.2782554626464844e-07, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.65625, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.6391277313232422e-07, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.65625, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 8.195638656616211e-08, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.65625, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 4.0978193283081055e-08, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.65625, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 4.0978193283081055e-08, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.65625, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 4.0978193283081055e-08, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.328125, 'dist': 3.001, 'company': 'Datadog', 'dir': <Direction.UP: (-1, 0)>}, {'pts': 4.0978193283081055e-08, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.328125, 'dist': 1.3343333333333331, 'company': 'Datadog', 'dir': <Direction.DOWN: (1, 0)>, 'score': 0.2389178246445513}, {'pts': 2.0489096641540527e-08, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.328125, 'dist': 0.3343333333333333, 'company': 'Datadog', 'dir': <Direction.DOWN: (1, 0)>, 'score': 1.095069478588052}, {'pts': 1.0244548320770264e-08, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.328125, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 5.122274160385132e-09, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.1640625, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 2.561137080192566e-09, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.1640625, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.280568540096283e-09, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.1640625, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 6.402842700481415e-10, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.1640625, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 3.2014213502407074e-10, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.08203125, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 3.2014213502407074e-10, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.08203125, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 3.2014213502407074e-10, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.08203125, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 3.2014213502407074e-10, 'dist': 0.001, 'company': 'Slack', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.08203125, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.6007106751203537e-10, 'dist': 3.001, 'company': 'Slack', 'dir': <Direction.RIGHT: (0, 1)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.041015625, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 1.6007106751203537e-10, 'dist': 3.001, 'company': 'Slack', 'dir': <Direction.UP: (-1, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.0205078125, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 38, 'dist': 3.001, 'company': 'Adobe', 'dir': <Direction.LEFT: (0, -1)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.01025390625, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 38, 'dist': 0.001, 'company': 'Adobe', 'dir': <Direction.ENTER: (0, 0)>}]
+START
+[{'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 7.5, 'dist': 0.001, 'company': 'Pinterest', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 0.005126953125, 'dist': 0.001, 'company': 'Datadog', 'dir': <Direction.ENTER: (0, 0)>}, {'pts': 19.0, 'dist': 0.001, 'company': 'Adobe', 'dir': <Direction.ENTER: (0, 0)>}]
+Won with score 208, took 263 moves:
+Moves:263

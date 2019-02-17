@@ -33,11 +33,11 @@ class Team(object):
             compName = self.boardInfo[y][x]["tile"].get_line()
             compInfo = self.companyInfo[compName]
             ret = {"pts": compInfo["score"], "dist": compInfo["avgLineLen"] + 2, "company": compName}
-            if not self.board[y][x].is_end_of_line():
-                ret["dist"] += 3
-                ret["dir"] = random.choice([Direction.UP, Direction.LEFT, Direction.RIGHT, Direction.DOWN])
-            else:
+            if self.board[y][x].is_end_of_line():
                 ret["dir"] = Direction.ENTER
+            else:
+                ret["dist"] += 10 + (self.board[y][x].get_num_bots() if self.board[y][x].get_num_bots() is not None else 0)
+                ret["dir"] = random.choice([Direction.UP, Direction.LEFT, Direction.RIGHT, Direction.DOWN])
             return ret
 
         self.memo[x*10000 + y] = {"pts": 0, "dist": 1000000000000}
@@ -155,12 +155,12 @@ class Team(object):
         for state in states:
             if state.line_pos != -1:
                 paths.append({"dir": Direction.NONE, "company": self.board[state.x][state.y]})
-                print(state.line_pos)
+                #print(state.line_pos)
             else:
                 path = self.shortest_path(state.y, state.x)
                 paths.append(path)
                 if path["dir"] == Direction.ENTER:
                     self.companyInfo[path["company"]]["score"] /= 2
-        print("START")
-        print(paths)
+        #print("START")
+        #print(paths)
         return [path["dir"] for path in paths]
